@@ -1,0 +1,14 @@
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\CatanControllers\bin\Debug\CatanControllers.dll
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\CatanControllers\bin\Debug\CatanControllers.pdb
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\CatanControllers\obj\Debug\CatanControllers.dll
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\CatanControllers\obj\Debug\CatanControllers.pdb
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\CatanControllers\obj\Debug\CatanControllers.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\CatanControllers\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\CatanControllers\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\CatanControllers\bin\Debug\CatanControllers.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\CatanControllers\bin\Debug\CatanControllers.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\CatanControllers\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\CatanControllers\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\CatanControllers\obj\Debug\CatanControllers.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\CatanControllers\obj\Debug\CatanControllers.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\CatanControllers\obj\Debug\CatanControllers.pdb

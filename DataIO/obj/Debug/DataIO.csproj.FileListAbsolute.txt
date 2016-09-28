@@ -1,0 +1,25 @@
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\DataIO\obj\Debug\DataIO.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\DataIO\bin\Debug\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\DataIO\bin\Debug\DataIO.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\DataIO\obj\Debug\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\DataIO\obj\Debug\DataIO.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.pdb
+F:\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.dll
+F:\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.pdb
+F:\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.csprojResolveAssemblyReference.cache
+F:\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.dll
+F:\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.dll
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.csprojResolveAssemblyReference.cache
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.dll
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.dll
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataIO\bin\Debug\DataIO.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.csprojResolveAssemblyReference.cache
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.dll
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataIO\obj\Debug\DataIO.pdb

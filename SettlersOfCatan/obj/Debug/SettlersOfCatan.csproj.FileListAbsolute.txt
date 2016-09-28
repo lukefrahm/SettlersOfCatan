@@ -1,0 +1,109 @@
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\bin\Debug\SettlersOfCatan.pdb
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.Properties.Resources.resources
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.csproj.GenerateResource.Cache
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersRollsGUI.resources
+c:\users\luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersStartScreen.resources
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\bin\Debug\DataModels.dll
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\obj\Debug\SettlersOfCatan.Help.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\bin\Debug\SettlersOfCatan.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.Help.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersRollsGUI.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.Properties.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersStartScreen.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\SettlersOfCatan\obj\Debug\SettlersOfCatan.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\bin\Debug\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\SettlersOfCatan\bin\Debug\DataIO.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\bin\Debug\SettlersOfCatan.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\bin\Debug\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\bin\Debug\DataIO.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.Help.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersRollsGUI.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.Properties.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersStartScreen.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\SettlersOfCatan\obj\Debug\SettlersOfCatan.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Help.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersRollsGUI.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Properties.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersStartScreen.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csproj.GenerateResource.Cache
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.pdb
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.dll
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.dll
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.pdb
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.pdb
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csprojResolveAssemblyReference.cache
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Help.resources
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersRollsGUI.resources
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Properties.Resources.resources
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersStartScreen.resources
+F:\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csproj.GenerateResource.Cache
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.dll
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.dll
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csprojResolveAssemblyReference.cache
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Help.resources
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersRollsGUI.resources
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Properties.Resources.resources
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersStartScreen.resources
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csproj.GenerateResource.Cache
+E:\zOther\zPrevious Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+E:\zOther\zPrevious Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+E:\zOther\zPrevious Semesters\net Programming 1\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.dll
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.dll
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataIO.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\DataModels.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csprojResolveAssemblyReference.cache
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Help.resources
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersRollsGUI.resources
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.Properties.Resources.resources
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.SettlersStartScreen.resources
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.csproj.GenerateResource.Cache
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb
+E:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\bin\Debug\SettlersOfCatan.exe.config
+E:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.exe
+E:\PreviousSemesters\SettlersOfCatan v1.0Beta\SettlersOfCatan\obj\Debug\SettlersOfCatan.pdb

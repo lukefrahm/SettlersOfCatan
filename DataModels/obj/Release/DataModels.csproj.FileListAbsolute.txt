@@ -1,0 +1,7 @@
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\bin\Release\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\bin\Release\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Release\DataModels.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Release\DataModels.DiceRollImages.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Release\DataModels.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Release\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Release\DataModels.pdb

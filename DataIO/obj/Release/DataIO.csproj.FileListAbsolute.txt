@@ -1,0 +1,5 @@
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\bin\Release\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\bin\Release\DataIO.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\obj\Release\DataIO.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\obj\Release\DataIO.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataIO\obj\Release\DataIO.pdb

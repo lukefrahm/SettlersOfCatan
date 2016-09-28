@@ -1,0 +1,19 @@
+Version History:
+.1		Began project. Created main GUI for rolls
+.1.1	Added second GUI for start screen. No code begun
+.1.2  	Added button functionality to start menu: now opens game screen
+.1.3  	Added starting code for rolls and dice values
+.2		All status bars and roll labels will increment with button press
+.2.5	Reset and quit buttons coded to work
+.3		Added additional items such as Barbarian to increase use case
+.4  	Added basic 1-move functionality to undo button
+.5		Commented code to add explanations to code
+.5.5  	Removing extraneous code to clean up for BETA release
+.6		Undo now keeps record of all moves from beginning
+.7		Further cleaned up code: all elements reworked for better running
+.7.5	Added images to dice
+.8		Implemented FileIO to update master file
+.8.5	Did final cleanup of code. Future changes will all be related to FileIO implementation
+.9		Exception handling, logic checking, stability tests. Prepare final package
+1.0		STABLE BETA RELEASE
+

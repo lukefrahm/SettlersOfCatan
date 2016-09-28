@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettlersOfCatan", "SettlersOfCatan\SettlersOfCatan.csproj", "{2C1EAE2C-79CE-43FD-8E50-4E940165E0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "DataModels\DataModels.csproj", "{31091F67-C66D-46FF-845D-F856D8B1E120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataIO", "DataIO\DataIO.csproj", "{F8ADEB55-9FF0-4590-88A4-FD4D0151E6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1EAE2C-79CE-43FD-8E50-4E940165E0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1EAE2C-79CE-43FD-8E50-4E940165E0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1EAE2C-79CE-43FD-8E50-4E940165E0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1EAE2C-79CE-43FD-8E50-4E940165E0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31091F67-C66D-46FF-845D-F856D8B1E120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31091F67-C66D-46FF-845D-F856D8B1E120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31091F67-C66D-46FF-845D-F856D8B1E120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31091F67-C66D-46FF-845D-F856D8B1E120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8ADEB55-9FF0-4590-88A4-FD4D0151E6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8ADEB55-9FF0-4590-88A4-FD4D0151E6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8ADEB55-9FF0-4590-88A4-FD4D0151E6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8ADEB55-9FF0-4590-88A4-FD4D0151E6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

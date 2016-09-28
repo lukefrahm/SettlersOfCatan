@@ -1,0 +1,47 @@
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\DataModels\bin\Debug\DataModels.dll
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\DataModels\bin\Debug\DataModels.pdb
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\DataModels\obj\Debug\DataModels.dll
+C:\Users\Luke\documents\visual studio 2013\Projects\SettlersOfCatan\DataModels\obj\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\DataModels\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\DataModels\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\DataModels\obj\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan BETA IDEAS\DataModels\obj\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\DataModels\obj\Debug\DataModels.DiceRollImages.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan\DataModels\obj\Debug\DataModels.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\DataModels\obj\Debug\DataModels.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\DataModels\obj\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\DataModels\obj\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\DataModels\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\DataModels\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\Data Files\DataModels\obj\Debug\DataModels.DiceRollImages.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.DiceRollImages.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.dll
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.pdb
+F:\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.dll
+F:\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.pdb
+F:\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+F:\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.DiceRollImages.resources
+F:\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csproj.GenerateResource.Cache
+F:\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.dll
+F:\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.dll
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.pdb
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.DiceRollImages.resources
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csproj.GenerateResource.Cache
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.dll
+E:\Previous Semesters\net Programming 1\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.dll
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataModels\bin\Debug\DataModels.pdb
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.DiceRollImages.resources
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.csproj.GenerateResource.Cache
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.dll
+Z:\PreviousSemesters\SettlersOfCatan v1.0Beta\DataModels\obj\Debug\DataModels.pdb
